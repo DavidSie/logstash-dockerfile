@@ -1,6 +1,6 @@
 # Logstash Dockerfile
 
-Logstash 1.4.2
+Logstash 1.5.0
 
 NOTE: If you want to run the whole ELK stack checkout: https://github.com/denibertovic/elk-stack-docker
 
